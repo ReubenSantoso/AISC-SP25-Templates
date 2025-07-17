@@ -18,7 +18,7 @@
 ## 🗣️ About **Project Cycles**
 
 Project Cycles is AISC’s quarterly build program where small squads spend **six weeks shipping an AI agent**—culminating in a live ✨ **Demo Day** ✨.  
-*More context & the full curriculum:* <https://sp24-projectcycles.notion.site/?pvs=4>
+*More context & the full curriculum:* <https://aisc-uw.notion.site/spr25-resources>
 
 ### Why this repo matters
 
