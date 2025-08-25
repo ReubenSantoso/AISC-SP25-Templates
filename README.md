@@ -1,9 +1,4 @@
 # 🌀 Project Cycles Template Repository  
-*AISC @ UW – Spring 2025*
-
-> **A ready-to-fork starter kit for the 90 + students building AI agents in the first-ever **AISC Project Cycles** program.*
-
----
 
 ## 📚 What’s inside?
 
@@ -20,17 +15,10 @@
 Project Cycles is AISC’s quarterly build program where small squads spend **six weeks shipping an AI agent**—culminating in a live ✨ **Demo Day** ✨.  
 *More context & the full curriculum:* <https://aisc-uw.notion.site/spr25-resources>
 
+*Spring 2025 Cohort Showcase:* <https://aisc-uw.notion.site/pc-spr25>
+
 ### Why this repo matters
 
 * **90 + students** need a safe launchpad ⇢ we give them plug-and-play templates.  
 * Mixing **no-code → full-code** tracks means every skill level is welcome.  
 * Agent techniques (RAG, function-calling, tool routing) so teams start with best practices, not boilerplate spaghetti.
-
----
-
-## 🌱 Quick start
-
-```bash
-# clone your own copy
-gh repo fork ReubenSantoso/AISC-SP25-Templates --clone
-cd AISC-SP25-Templates
